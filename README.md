@@ -3,7 +3,7 @@ Creación del entorno para trabajar en proyectos relacionados con la ciberseguri
 
 Thinkpad T430 (2012)
 ![IMG_5624](https://github.com/user-attachments/assets/5c417f30-0b45-404c-8a0e-ce08ad3c7af9)
-OS --> Kali GNU/Linux 
+OS --> Kali GNU/Linux <br>
 Display --> 1366 x 768 @ 60hz in 14"
 De --> bspwm
 Terminal --> kitty
